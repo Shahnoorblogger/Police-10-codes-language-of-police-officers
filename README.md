@@ -4,7 +4,7 @@
 
 </body>
 </html>
-situations. For an in-depth look at various police codes, visit <a href="https://policecodes.co/" target="_blank">Police Codes</a> for comprehensive resources.
+situations. For an in-depth look at various police codes, visit <a href="https://policecodes.co/" target="_blank">Police Codes.co</a> for comprehensive resources.
 </p>
 
 <h2>Overview of Police 10 Codes</h2>
@@ -19,7 +19,7 @@ situations. For an in-depth look at various police codes, visit <a href="https:/
 
 <h2>Comprehensive List of Common 10 Codes</h2>
 <p>
-    For a detailed list of common police 10 codes, including their meanings, refer to <a href="https://policecodes.co/police-ten-codes/ten-codes/" target="_blank">this resource</a>. Here, you will find a wide range of codes used by various departments, aiding in understanding their practical applications.
+    For a detailed list of common police 10 codes, including their meanings, refer to <a href="https://policecodes.co/police-ten-codes/ten-codes/" target="_blank">this list of police ten codes</a>. Here, you will find a wide range of codes used by various departments, aiding in understanding their practical applications.
 </p>
 
 <h2>Historical Context</h2>
